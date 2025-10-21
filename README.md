@@ -1,5 +1,6 @@
 
 https://reac-task-app.vercel.app/
+<img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/cc2d767b-cd68-4896-a090-e1448c1f4db9" />
 
 A brief and clear description of your project — what it does, why it exists, and who it’s for.
 
@@ -10,6 +11,7 @@ A brief and clear description of your project — what it does, why it exists, a
 ✅ Key feature #2
 
 ✅ Key feature #3
+
 
 ✅ Optional integrations or extra tools
 
@@ -32,7 +34,7 @@ Others	APIs, Authentication, AI Tools, etc.
 Follow these steps to get the project running locally:
 
 # 1️⃣ Clone the repository
-git clone https://github.com/username/repository-name.git
+git clone 
 
 # 2️⃣ Navigate into the project directory
 cd repository-name
